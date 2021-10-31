@@ -1,0 +1,13 @@
+{
+  "name": "webRtcDemo",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:bozhouyongqi/webRtcDemo.git",
+  "author": "wyq",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "peer": "^0.6.1",
+    "peerjs": "^1.3.2"
+  }
+}
